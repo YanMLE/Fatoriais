@@ -1,0 +1,9 @@
+[submodule "Fatorial-em-Lua"]
+	path = Fatorial-em-Lua
+	url = https://github.com/YanMLE/Fatorial-em-Lua
+[submodule "Fatorial-em-Python"]
+	path = Fatorial-em-Python
+	url = https://github.com/YanMLE/Fatorial-em-Python
+[submodule "Fatorial-em-CPP"]
+	path = Fatorial-em-CPP
+	url = https://github.com/YanMLE/Fatorial-em-CPP
